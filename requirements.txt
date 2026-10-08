@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+torch
+transformers
+sentence-transformers
+faiss-cpu
